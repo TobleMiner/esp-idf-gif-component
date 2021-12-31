@@ -1,0 +1,3 @@
+[submodule "AnimatedGIF"]
+	path = AnimatedGIF
+	url = https://github.com/bitbank2/AnimatedGIF
